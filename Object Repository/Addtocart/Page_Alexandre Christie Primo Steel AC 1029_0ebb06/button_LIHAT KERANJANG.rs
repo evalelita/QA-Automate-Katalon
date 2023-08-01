@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LIHAT KERANJANG</name>
+   <tag></tag>
+   <elementGuidId>a875fbc8-a4aa-42b3-be79-3cdf1b76d070</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mw-ripple-effect.btn.rounded.text-sm.relative.overflow-hidden.w-full.btn-ghost.btn-ghost-white.text-neutral-300.bg-transparent.bg-opacity-20.border-1.border-neutral-300.border-solid.mt-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div/div/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f6056151-e2c0-459a-8f70-7b5cded76f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-ghost btn-ghost-white text-neutral-300 bg-transparent bg-opacity-20 border-1 border-neutral-300 border-solid mt-4</value>
+      <webElementGuid>2077b16a-9a4e-47c4-b299-465aedd3d50c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIHAT KERANJANG</value>
+      <webElementGuid>b8d497c6-60a8-4fa3-afeb-1a9c71fba0b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[1]/div[@class=&quot;modal fixed h-full w-full top-0 left-0 flex items-center justify-center bg-neutral-1000 bg-opacity-50&quot;]/div[@class=&quot;content relative bg-clip-padding outline-none p-4&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;relative rounded-4 modal-container-wrap p-6 my-8 max-w-md bg-neutral-800&quot;]/a[1]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-ghost btn-ghost-white text-neutral-300 bg-transparent bg-opacity-20 border-1 border-neutral-300 border-solid mt-4&quot;]</value>
+      <webElementGuid>7cc934b0-7cd0-478f-81cc-91d645d2d336</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div/div/a/button</value>
+      <webElementGuid>e94fa7df-4bf4-480b-b43b-c09ad646a1fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandre Christie Primo Steel AC 1029 BRGSL Couple Silver Dial Rose Gold Stainless Steel Strap'])[3]/following::button[1]</value>
+      <webElementGuid>9babcac1-35ff-49c2-a613-f73a4b587520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil Ditambahkan'])[1]/following::button[1]</value>
+      <webElementGuid>63d9f8ee-a1e0-4bad-9bfb-8d4919732a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIHAT KERANJANG']/parent::*</value>
+      <webElementGuid>6c3fbe8e-a8bd-43c9-96bf-b7ce21394b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a/button</value>
+      <webElementGuid>6433af39-a38f-4c27-affe-b530f7769c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'LIHAT KERANJANG' or . = 'LIHAT KERANJANG')]</value>
+      <webElementGuid>b29c0bf1-21b5-4910-9a93-29f10419cb95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

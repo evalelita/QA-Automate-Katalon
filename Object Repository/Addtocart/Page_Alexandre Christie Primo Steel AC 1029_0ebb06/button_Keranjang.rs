@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Keranjang</name>
+   <tag></tag>
+   <elementGuidId>b0b49f48-7446-4133-b7e1-45c3e9b19802</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mw-ripple-effect.btn.rounded.text-sm.relative.overflow-hidden.w-full.btn-filled.btn-filled-transparent.text-primary-1.bg-primary-1.bg-opacity-20.border-1.border-primary-1.border-solid.p-1.w-min-0.uppercase.add-to-cart-cta</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/div[3]/div[2]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>994b9f00-38b8-477f-93d4-fec022658a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled btn-filled-transparent text-primary-1 bg-primary-1 bg-opacity-20 border-1 border-primary-1 border-solid p-1 w-min-0 uppercase add-to-cart-cta</value>
+      <webElementGuid>963bef7c-316d-4567-888b-5267d0dac3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Keranjang</value>
+      <webElementGuid>5c294089-2ac9-456d-8084-2ee5c4137270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/div[@class=&quot;md:mt-2 md:pt-2 text-neutral-400 product-detail container mx-auto&quot;]/div[@class=&quot;grid grid-cols-12 w-full overflow-x-hidden md:overflow-x-visible&quot;]/div[@class=&quot;order-3 w-full col-span-12 md:col-span-5&quot;]/div[@class=&quot;w-full fixed md:relative bottom-0 bg-neutral-800 md:bg-transparent md:z-auto border-b-0 md:border-b-1 border-neutral-900 left-0 z-10&quot;]/div[@class=&quot;flex p-4 btn-buy-wrapper&quot;]/div[@class=&quot;w-1-2 mr-4&quot;]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled btn-filled-transparent text-primary-1 bg-primary-1 bg-opacity-20 border-1 border-primary-1 border-solid p-1 w-min-0 uppercase add-to-cart-cta&quot;]</value>
+      <webElementGuid>e551d07f-6252-496e-8f08-234f4b33c11c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[3]/div[2]/div[2]/div/button</value>
+      <webElementGuid>a33b075c-3bf8-4693-9ac8-2fb5a82e0aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stok Online > 5 pcs'])[1]/following::button[1]</value>
+      <webElementGuid>164c79a0-883a-4104-b047-0b6f2dcb9298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9f1fcf2-ed30-4739-bd44-5268993a360b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesanan dikirimkan setelah 1-2 hari kerja proses gudang'])[1]/preceding::button[2]</value>
+      <webElementGuid>e8dfa07d-1789-4c98-90e8-5e21d0f20d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+']/parent::*</value>
+      <webElementGuid>b7c26f65-155e-4d52-9ba6-36c5c3e5b777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>7d3434f7-01ff-4a61-a434-91913d4fd70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '+ Keranjang' or . = '+ Keranjang')]</value>
+      <webElementGuid>8a1a3bde-8591-4acd-8c03-c644cc247747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

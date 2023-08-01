@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(id(, , driver-highlighted-elemen_ed6564</name>
+   <tag></tag>
+   <elementGuidId>5ab05fba-3659-42cb-b5a5-fdf9b7396e3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#driver-highlighted-element-stage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='driver-highlighted-element-stage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d0179ec-572a-4bbf-b23d-64c8548e2180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>driver-highlighted-element-stage</value>
+      <webElementGuid>071371c4-002c-4f17-9d8f-4ff635394da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;driver-highlighted-element-stage&quot;)</value>
+      <webElementGuid>0a97a1bf-ada5-4a4b-b5b7-cab1d1caafec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='driver-highlighted-element-stage']</value>
+      <webElementGuid>615a5c9a-d1a1-46ef-9780-9cb83ad2cfc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>391107cc-07bb-43f7-ac8e-c0c4c0e82835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'driver-highlighted-element-stage']</value>
+      <webElementGuid>6d8ac5ec-3616-41cf-94f2-4176bbf10897</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

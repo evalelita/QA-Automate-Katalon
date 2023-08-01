@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_alexandre christie</name>
+   <tag></tag>
+   <elementGuidId>5bb000e9-860d-4126-a385-94678583aa18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.items-center.whitespace-nowrap.overflow-hidden.inline-block.w-full.text-elipsis</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div[2]/div/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>51194c3e-ad2f-43ec-892d-b26e2d1d7302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>items-center whitespace-nowrap overflow-hidden inline-block w-full text-elipsis</value>
+      <webElementGuid>d0c54068-29f0-4129-8588-4d67feb193bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/c/jam-tangan?q=alexandre%20christie</value>
+      <webElementGuid>e7ad4602-a9f8-4ff7-a49c-f774b2a8c956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>alexandre christie</value>
+      <webElementGuid>be5e7e19-9f6f-4909-8e14-6f8c92254c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;text-neutral-600 mw-header w-full bg-neutral-1000 top-0 z-20 sticky&quot;]/div[@class=&quot;header-container md:p-5 pl-3 pr-3 border-b-1 border-t-1 border-neutral-800 bg-center bg-no-repeat&quot;]/div[@class=&quot;container mx-auto grid-cols-12 items-center grid&quot;]/div[@class=&quot;relative col-start-4 col-end-13 md:col-start-4 md:col-end-10 mr-0 md:mr-4&quot;]/div[@class=&quot;absolute z-20 w-full&quot;]/div[@class=&quot;card relative rounded-2 bg-neutral-900 bg-neutral-800 mt-1 p-4&quot;]/div[@class=&quot;bg-neutral-900 md:bg-transparent mt-4 md:mt-0&quot;]/ul[@class=&quot;mt-4 px-4 md:px-0 pb-1 md:pb-0&quot;]/li[@class=&quot;text-sm text-neutral-300 tracking-wide leading-6 mb-4&quot;]/a[@class=&quot;items-center whitespace-nowrap overflow-hidden inline-block w-full text-elipsis&quot;]</value>
+      <webElementGuid>7adbba74-ed1c-452c-9066-f2c2df2156e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div[2]/div/div/div/ul/li/a</value>
+      <webElementGuid>6de120e0-bbc2-4583-b163-7a801716d48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'alexandre christie')]</value>
+      <webElementGuid>e0b0786d-6976-4cc4-98a0-fcf340e86061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencarian Populer'])[1]/following::a[1]</value>
+      <webElementGuid>a44545e8-142e-4654-932a-2f1d4835f87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::a[1]</value>
+      <webElementGuid>083ab7e4-a8e4-48e9-b020-00a7e0691e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='g shock'])[1]/preceding::a[1]</value>
+      <webElementGuid>fd76d926-884d-45cc-b53b-3b78aad43c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='casio g-shock'])[1]/preceding::a[2]</value>
+      <webElementGuid>dd054fc2-1028-4b6d-81d5-5454bb53d9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='alexandre christie']/parent::*</value>
+      <webElementGuid>852c10c8-e86a-4c1f-86a9-fead2f7a9807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/c/jam-tangan?q=alexandre%20christie')]</value>
+      <webElementGuid>fbdb7c2e-74c1-4068-9c38-8a1cff3da9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>8d08bc73-8794-484d-987c-571cd5023b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/c/jam-tangan?q=alexandre%20christie' and (text() = 'alexandre christie' or . = 'alexandre christie')]</value>
+      <webElementGuid>0fb7d40e-7936-4430-a717-fcf1b88ce0d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

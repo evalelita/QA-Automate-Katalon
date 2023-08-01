@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lebih cepat via whatsapp</name>
+   <tag></tag>
+   <elementGuidId>81978a63-422c-435e-b8e9-990ffc4f90a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mw-ripple-effect.btn.rounded.text-sm.relative.overflow-hidden.w-full.btn-filled.text-neutral-1000.bg-primary-1.text-sm.qa-otp-wa-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div[2]/div/div/div/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d8e9a1ac-55ee-4f90-9010-49184a72c882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 text-sm qa-otp-wa-button</value>
+      <webElementGuid>fe11f257-0b04-4438-889b-bd231fec0198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lebih cepat via whatsapp</value>
+      <webElementGuid>37a2ae4a-79a8-4d0e-b57b-a40f19a7fe0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[2]/div[@class=&quot;modal fixed h-full w-full top-0 left-0 flex items-center justify-center bg-neutral-1000 bg-opacity-50&quot;]/div[@class=&quot;content relative bg-clip-padding outline-none&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;relative rounded-4 modal-container-wrap p-6 my-8 max-w-sm bg-neutral-900&quot;]/div[1]/div[1]/div[1]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 text-sm qa-otp-wa-button&quot;]</value>
+      <webElementGuid>9ab56f9b-8fe1-4ef5-8cdb-cc0d3c78c473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div[2]/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>adc13698-b085-408d-b9e0-4716f91d55b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yuk, Pilih Metode Verifikasi'])[1]/following::button[1]</value>
+      <webElementGuid>4db7f75b-9fd9-4a32-abfb-42d0c048113a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/following::button[1]</value>
+      <webElementGuid>67045bad-8131-48ec-b7ca-71ff3aa502d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim Via SMS'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d072ef4-7cc9-41b7-81e0-c1f6d2c7aabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>d259fdce-a4ca-4b1a-82e4-29a9dd36f10d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lebih cepat via whatsapp' or . = 'Lebih cepat via whatsapp')]</value>
+      <webElementGuid>2af84ce3-ff93-4314-9118-50a513aeca83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

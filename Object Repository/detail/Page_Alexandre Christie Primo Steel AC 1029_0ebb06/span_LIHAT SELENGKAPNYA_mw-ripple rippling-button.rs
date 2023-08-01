@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LIHAT SELENGKAPNYA_mw-ripple rippling-button</name>
+   <tag></tag>
+   <elementGuidId>a597afb5-cd29-4213-96aa-66b6b1906af4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[2]/div/div/div/div[2]/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17771a20-da51-4909-9c70-a8d4369d17d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple rippling-button </value>
+      <webElementGuid>386ab84e-ad2a-472f-81f3-8f61de21c027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/div[@class=&quot;md:mt-2 md:pt-2 text-neutral-400 product-detail container mx-auto&quot;]/div[@class=&quot;grid grid-cols-12&quot;]/div[@class=&quot;w-full col-span-12 md:col-span-9&quot;]/div[1]/div[@class=&quot;tabs-container mt-8&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;rounded-lb-1 rounded-b-1 rounded-tr-1 rounded-tl-0 bg-neutral-900 p-6 md:p-8&quot;]/div[@class=&quot;text-center&quot;]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden btn-ghost btn-ghost-grey text-neutral-500 bg-transparent border-1 border-neutral-500 border-solid uppercase mt-6 tracking-wider&quot;]/span[@class=&quot;mw-ripple rippling-button&quot;]</value>
+      <webElementGuid>4f391666-60aa-444b-9dde-54d57ecdf3ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div/div/div/div[2]/div/div[2]/button/span</value>
+      <webElementGuid>7fa8a4f1-36cd-45e0-b13f-0467079d7a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button/span</value>
+      <webElementGuid>ab952e68-387b-43a4-9236-04f323dc1790</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

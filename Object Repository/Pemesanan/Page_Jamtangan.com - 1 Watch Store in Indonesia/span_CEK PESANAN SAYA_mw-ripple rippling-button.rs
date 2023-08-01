@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CEK PESANAN SAYA_mw-ripple rippling-button</name>
+   <tag></tag>
+   <elementGuidId>fec901a2-9f11-46e9-ad62-a87baf38e2cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[2]/div[7]/div[2]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ece52cc4-1599-4414-b58a-29dd1ecd9f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple rippling-button </value>
+      <webElementGuid>c112861b-d2a4-4dee-b8ac-04f5aebb0311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/div[@class=&quot;container md:w-6-12 mx-auto text-neutral-300 mt-4 md:mt-16 md:mb-16&quot;]/div[@class=&quot;bg-neutral-900 mt-5&quot;]/div[@class=&quot;p-6 md:px-6&quot;]/div[@class=&quot;mt-6 md:mb-4 grid grid-cols-4&quot;]/div[@class=&quot;col-span-4 md:col-span-2 order-2 md:order-1 md:col-start-2&quot;]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 uppercase&quot;]/span[@class=&quot;mw-ripple rippling-button&quot;]</value>
+      <webElementGuid>69e2c483-66f6-418f-8d82-38a19d443725</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div[7]/div[2]/div/button/span</value>
+      <webElementGuid>2644912d-0903-4e9e-a67c-aae4e6b01e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>f1b260a9-b9ad-4fd0-a52c-7b923de28bb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

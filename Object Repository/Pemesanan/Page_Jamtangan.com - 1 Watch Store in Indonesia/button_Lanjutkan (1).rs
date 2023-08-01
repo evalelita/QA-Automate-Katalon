@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lanjutkan (1)</name>
+   <tag></tag>
+   <elementGuidId>7c914d04-eb95-4fe5-917f-65a07926b720</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mw-ripple-effect.btn.rounded.text-sm.relative.overflow-hidden.w-full.btn-filled.text-neutral-1000.bg-primary-1.uppercase</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/section/div/div/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>602fd64b-ddad-45fb-a85d-ba8e507084de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 uppercase</value>
+      <webElementGuid>95d91565-e652-4407-9dc3-6c7e2b4bb14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>cart-btn-summary-cta</value>
+      <webElementGuid>3bde7279-db5a-4c87-a4ba-afe8685d07f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjutkan (1)</value>
+      <webElementGuid>7c93055b-9d1e-40e5-98fd-01cc137754d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen flex flex-col bg-neutral-1000&quot;]/div[@class=&quot;mw-layout-content&quot;]/div[1]/div[@class=&quot;container mx-auto md:grid md:grid-cols-3 md:mt-2&quot;]/section[@class=&quot;md:pl-4 md:pt-4&quot;]/div[@class=&quot;md:sticky md:top-38&quot;]/div[@class=&quot;bg-neutral-900 rounded-2 p-6 hidden md:block&quot;]/div[3]/div[@class=&quot;flex items-end col-span-2 md:col-span-4&quot;]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 uppercase&quot;]</value>
+      <webElementGuid>ecd236ce-e2b2-4ca1-aae9-48c53a0387d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/section/div/div/div[3]/div/button</value>
+      <webElementGuid>a9b0355b-4465-43ad-a2b1-4377fd1ab6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan JT Point 6.170'])[1]/following::button[1]</value>
+      <webElementGuid>6fb9426f-ded1-427b-bcaa-f46c90062383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp1.234.000'])[3]/following::button[1]</value>
+      <webElementGuid>5d34f67c-0f71-4ae4-8869-8cb6b4446cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Belanja:'])[2]/preceding::button[1]</value>
+      <webElementGuid>12f7b96b-6f88-4b76-a0a0-541fb9f44e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp1.234.000'])[4]/preceding::button[1]</value>
+      <webElementGuid>3feffd62-d325-4c2f-9e37-a5fcf3d7c863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
+      <webElementGuid>4e559f6a-b204-427c-be9e-edc409375486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>96c9922a-8a50-4ad0-b870-5abfd315e2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lanjutkan (1)' or . = 'Lanjutkan (1)')]</value>
+      <webElementGuid>6fa272d4-77e9-4472-846a-72c41222f7fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

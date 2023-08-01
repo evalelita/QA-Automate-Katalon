@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Masuk_mw-ripple rippling-button</name>
+   <tag></tag>
+   <elementGuidId>12a38a91-2156-4782-a892-6495318e6e24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div/div/div/div/form/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b371c99-9f63-4e4f-83a7-3d026c94ee81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple rippling-button </value>
+      <webElementGuid>d88e285c-b152-4a16-b4a5-df780d5410cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[1]/div[@class=&quot;modal fixed h-full w-full top-0 left-0 flex items-center justify-center bg-neutral-1000 bg-opacity-50&quot;]/div[@class=&quot;content relative bg-clip-padding outline-none&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;relative rounded-4 modal-container-wrap p-6 my-8 max-w-md bg-neutral-900&quot;]/div[@class=&quot;login-form-container&quot;]/div[@class=&quot;mx-auto my-0 text-neutral-200 login-form-popup p-3&quot;]/form[1]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 uppercase qa-login-button&quot;]/span[@class=&quot;mw-ripple rippling-button&quot;]</value>
+      <webElementGuid>e85c0e4d-2112-44cc-a76e-c6753253367d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div/div/div/div/form/button/span</value>
+      <webElementGuid>30b0cdc5-cc38-4257-a989-a93ece7f8bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>b121d194-53d5-4513-b8c4-de658bdd12c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
